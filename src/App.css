@@ -24,6 +24,12 @@
   color: white;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #131722;
+}
+
 .App-link {
   color: #61dafb;
 }
